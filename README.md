@@ -36,6 +36,6 @@
     <td><b>Activity-6: </b> Print the Object Status <br/> (Monitor using IR Sensor)</td>
   </tr>
   <tr>
-    <td><b>Activity-7: </b> Detect Dry or Wet and percentage of moisture <br/> (Monitor using Moisture Sensor)</td>
+    <td><b>Activity-7: </b> Detect Dry or Wet and percentage of wet <br/> (Monitor using Moisture Sensor)</td>
   </tr>
 </table>
