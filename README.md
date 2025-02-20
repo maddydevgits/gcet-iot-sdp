@@ -3,9 +3,30 @@
 # Contents
 <table>
   <tr>
+    <td><h2>Day-1 Activities</h2></td>
+  </tr>
+  <tr>
     <td><b>Activity-0: </b> Getting Started <br/> (Arduino IDE Installation, ESP32 Addon,Drivers Installation)</td>
   </tr>
   <tr>
     <td><b>Activity-1: </b> Printing your Team Name <br/> (Understanding Serial Monitor, Serial Functions)</td>
+  </tr>
+  <tr>
+    <td><b>Activity-2: </b> Making LED On <br/> (On-board LED available at D2/G2)</td>
+  </tr>
+  <tr>
+    <td><b>Activity-3: </b> Toggling LED <br/> (On-board LED available at D2/G2)</td>
+  </tr>
+  <tr>
+    <td><b>Assessment-1: </b> Printing your team name finite times <br/> (Print your team name only 5 times) </td>
+  </tr>
+  <tr>
+    <td><b>Assessment-2: </b> Toggling LED finite times <br/> (Toggle LED for only 5 times) </td>
+  </tr>
+  <tr>
+    <td><h2>Day-2 Activities</h2></td>
+  </tr>
+  <tr>
+    <td><b>Activity-4: </b> Control LED from user input <br/> (Control LED from Serial Monitor)</td>
   </tr>
 </table>
