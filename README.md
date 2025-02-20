@@ -53,4 +53,7 @@
   <tr>
     <td><b>Assessment-4: </b> Rotate Servo Motor to 90 degress when saline is empty;<br/> (Assume ultrasonic is mounted on the top of saline, and servo motor is connected on the bottom of saline) </td>
   </tr>
+  <tr>
+    <td><b>Activity-11: </b> Read Humidity and Temperature <br/> (use DHT11 Sensor)</td>
+  </tr>
 </table>
