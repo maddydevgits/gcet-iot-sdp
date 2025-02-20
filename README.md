@@ -41,4 +41,7 @@
   <tr>
     <td><b>Activity-8: </b> Plot the Gas Data <br/> (Monitor using Gas Sensor)</td>
   </tr>
+  <tr>
+    <td><b>Activity-9: </b> Rotate Servo Motor continuously <br/> (From 0 degrees to 180 degrees)</td>
+  </tr>
 </table>
