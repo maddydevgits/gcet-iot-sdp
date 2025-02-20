@@ -47,4 +47,7 @@
   <tr>
     <td><b>Assessment-3: </b> Rotate Servo Motor to 90 degress when 50% Wet <br/> (Use both Servo Motor and Moisture Sensor) </td>
   </tr>
+  <tr>
+    <td><b>Activity-10: </b> Read Distance from Object <br/> (use Ultrasonic Sensor)</td>
+  </tr>
 </table>
