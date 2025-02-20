@@ -44,4 +44,7 @@
   <tr>
     <td><b>Activity-9: </b> Rotate Servo Motor continuously <br/> (From 0 degrees to 180 degrees)</td>
   </tr>
+  <tr>
+    <td><b>Assessment-3: </b> Rotate Servo Motor to 90 degress when 50% Wet <br/> (Use both Servo Motor and Moisture Sensor) </td>
+  </tr>
 </table>
