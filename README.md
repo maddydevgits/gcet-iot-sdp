@@ -38,4 +38,7 @@
   <tr>
     <td><b>Activity-7: </b> Detect Dry or Wet and percentage of wet <br/> (Monitor using Moisture Sensor)</td>
   </tr>
+  <tr>
+    <td><b>Activity-8: </b> Plot the Gas Data <br/> (Monitor using Gas Sensor)</td>
+  </tr>
 </table>
