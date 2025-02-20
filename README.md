@@ -29,4 +29,7 @@
   <tr>
     <td><b>Activity-4: </b> Control LED from user input <br/> (Control LED from Serial Monitor)</td>
   </tr>
+  <tr>
+    <td><b>Activity-5: </b> Control LED from sensor input <br/> (Control LED based on Light Sensor)</td>
+  </tr>
 </table>
