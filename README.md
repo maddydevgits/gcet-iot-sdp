@@ -32,4 +32,7 @@
   <tr>
     <td><b>Activity-5: </b> Control LED from sensor input <br/> (Control LED based on Light Sensor)</td>
   </tr>
+  <tr>
+    <td><b>Activity-6: </b> Print the Object Status <br/> (Monitor using IR Sensor)</td>
+  </tr>
 </table>
