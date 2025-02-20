@@ -50,4 +50,7 @@
   <tr>
     <td><b>Activity-10: </b> Read Distance from Object <br/> (use Ultrasonic Sensor)</td>
   </tr>
+  <tr>
+    <td><b>Assessment-4: </b> Rotate Servo Motor to 90 degress when saline is empty;<br/> (Assume ultrasonic is mounted on the top of saline, and servo motor is connected on the bottom of saline) </td>
+  </tr>
 </table>
