@@ -1,3 +1,5 @@
+// Activity-13: Upload DHT11 to IoT Cloud
+
 #include<WiFi.h>
 #include<ThingSpeak.h>
 #include<DHT.h>

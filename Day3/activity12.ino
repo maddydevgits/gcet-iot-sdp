@@ -1,3 +1,5 @@
+// Activity-12: Connect Internet to ESP32
+
 #include<WiFi.h>
 const char* ssid="Madhu's iPhone";
 const char* password="1234";
