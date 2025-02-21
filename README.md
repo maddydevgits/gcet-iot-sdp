@@ -72,4 +72,7 @@
   <tr>
     <td><b>Activity-15: </b> Control Virtual Lamp from Mobile <br/> ((HTTP Shortcuts) Only on Android)</td>
   </tr>
+  <tr>
+    <td><b>Activity-16: </b> Control LED from Mobile <br/> ((HTTP Shortcuts) Only on Android)</td>
+  </tr>
 </table>
