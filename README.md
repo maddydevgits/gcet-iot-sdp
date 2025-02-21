@@ -66,4 +66,7 @@
   <tr>
     <td><b>Activity-13: </b> Upload DHT11 to IoT Cloud<br/> (create a channel in ThingSpeak IoT Cloud)</td>
   </tr>
+  <tr>
+    <td><b>Activity-14: </b> Download ThingView from PlayStore <br/> (Only on Android)</td>
+  </tr>
 </table>
