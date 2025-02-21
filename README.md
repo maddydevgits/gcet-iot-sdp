@@ -2,6 +2,7 @@
 
 # Contents
 <table>
+  <marquee>Contact Me at <a href="https://linkedin.com/MadhuPIoT">My LinkedIn</a></marquee>
   <tr>
     <td><h2>Day-1 Activities</h2></td>
   </tr>
