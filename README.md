@@ -60,4 +60,7 @@
   <tr>
     <td><h2>Day-3 Activities</h2></td>
   </tr>
+  <tr>
+    <td><b>Activity-12: </b> Connect Internet to ESP32<br/> (use 2.4GHz Hotspot)</td>
+  </tr>
 </table>
