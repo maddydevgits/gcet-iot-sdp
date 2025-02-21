@@ -2,7 +2,7 @@
 
 # Contents
 <table>
-  <tr><h2>Contact Me at <a href="https://linkedin.com/MadhuPIoT">My LinkedIn</a></h2> </tr>
+  <tr><h2>Contact Me at <a href="https://linkedin.com/in/MadhuPIoT">My LinkedIn</a></h2> </tr>
   <tr>
     <td><h2>Day-1 Activities</h2></td>
   </tr>
