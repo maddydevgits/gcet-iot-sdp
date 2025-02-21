@@ -75,4 +75,10 @@
   <tr>
     <td><b>Activity-16: </b> Control LED from Mobile <br/> ((HTTP Shortcuts) Only on Android)</td>
   </tr>
+  <tr>
+    <td><b>Assessment-5: </b> Live Steaming of DHT11, and Moisture Sensor <br/> (Use ThingView and ThingSpeak)</td>
+  </tr>
+  <tr>
+    <td><b>Assessment-6: </b> Control the Servo Motor from Mobile App <br/> (Use HTTP Shortcuts App and ThingSpeak)</td>
+  </tr>
 </table>
