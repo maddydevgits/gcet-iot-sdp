@@ -63,4 +63,7 @@
   <tr>
     <td><b>Activity-12: </b> Connect Internet to ESP32<br/> (use 2.4GHz Hotspot)</td>
   </tr>
+  <tr>
+    <td><b>Activity-13: </b> Upload DHT11 to IoT Cloud<br/> (create a channel in ThingSpeak IoT Cloud)</td>
+  </tr>
 </table>
