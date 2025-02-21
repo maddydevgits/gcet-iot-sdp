@@ -56,4 +56,7 @@
   <tr>
     <td><b>Activity-11: </b> Read Humidity and Temperature <br/> (use DHT11 Sensor)</td>
   </tr>
+  <tr>
+    <td><h2>Day-3 Activities</h2></td>
+  </tr>
 </table>
