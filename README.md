@@ -70,6 +70,6 @@
     <td><b>Activity-14: </b> Download ThingView from PlayStore <br/> (Only on Android)</td>
   </tr>
   <tr>
-    <td><b>Activity-15: </b> Control Virtual Lamp from Mobile <br/> (Only on Android)</td>
+    <td><b>Activity-15: </b> Control Virtual Lamp from Mobile <br/> ((HTTP Shortcuts) Only on Android)</td>
   </tr>
 </table>
