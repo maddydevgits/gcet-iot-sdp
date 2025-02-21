@@ -81,4 +81,7 @@
   <tr>
     <td><b>Assessment-6: </b> Control the Servo Motor from Mobile App <br/> (Use HTTP Shortcuts App and ThingSpeak)</td>
   </tr>
+  <tr>
+    <td><b>Activity-17: </b> Create a Group Chat using MQTT <br/> (Create using Python Script on Colab)</td>
+  </tr>
 </table>
