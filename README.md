@@ -84,4 +84,10 @@
   <tr>
     <td><b>Activity-17: </b> Create a Group Chat using MQTT <br/> (Create using Python Script on Colab)</td>
   </tr>
+  <tr>
+    <td><h2>Day-4 Activities</h2></td>
+  </tr>
+  <tr>
+    <td><b>Activity-18: </b> Log the data on Blynk App<br/> (Use DHT11 and Blynk Cloud)</td>
+  </tr>
 </table>
