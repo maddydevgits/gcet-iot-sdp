@@ -93,4 +93,7 @@
   <tr>
     <td><b>Activity-19: </b> Control LED from Blynk App<br/> (Use Blynk Cloud)</td>
   </tr>
+  <tr>
+    <td><b>Activity-20: </b> Notify the parent (75% Wet) via Blynk <br/> (Use Moisture Sensor and Blynk Cloud)</td>
+  </tr>
 </table>
