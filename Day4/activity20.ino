@@ -1,40 +1,36 @@
-// Control LED from Blynk App
+// Activity-20: Notify the parent (75% Wet) via Blynk
 
+
+#define BLYNK_TEMPLATE_ID ""
 #define BLYNK_TEMPLATE_NAME ""
 #define BLYNK_AUTH_TOKEN ""
-#define BLYNK_TEMPLATE_ID ""
-
-
 #define BLYNK_PRINT Serial
 
-#include <WiFi.h>
-#include <WiFiClient.h>
-#include <BlynkSimpleEsp32.h>
+#include<WiFi.h>
+#include<BlynkSimpleEsp32.h>
 
-// Your WiFi credentials.
-char ssid[] = "";
-char pass[] = "";
+int moisture=34;
 
-int led=2;
+const char* ssid="Mad";
+const char* password="1234";
 
-BLYNK_WRITE(V1) { //move forward
-  int state = param.asInt();
-  if(state==1)
-    digitalWrite(led,1);
-  else
-    digitalWrite(led,0);
+
+void setup() {
+  pinMode(moisture,INPUT);
+  Serial.begin(9600);
+  Blynk.begin(BLYNK_AUTH_TOKEN,ssid,password);
 }
 
-void setup()
-{
-  // Debug console
-  Serial.begin(115200);
-
-  pinMode(led,OUTPUT);
-  Blynk.begin(BLYNK_AUTH_TOKEN, ssid, pass);
-}
-
-void loop()
-{
+void loop() {
+  float m=analogRead(moisture);
+  m=4095-m;
+  float p=(m/4095)*100;
+  
+  Blynk.virtualWrite(V3,p);
+  if(p>75){
+    Serial.println("Alert");
+    Blynk.logEvent("moisture_alert","It is 75% Wet");
+  }
+  delay(2000);
   Blynk.run();
 }
