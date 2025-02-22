@@ -25,6 +25,7 @@ void loop() {
   float m=analogRead(moisture);
   m=4095-m;
   float p=(m/4095)*100;
+  Serial.println(p);
   
   Blynk.virtualWrite(V3,p);
   if(p>75){
