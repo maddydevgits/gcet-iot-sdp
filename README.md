@@ -90,4 +90,7 @@
   <tr>
     <td><b>Activity-18: </b> Log the data on Blynk App<br/> (Use DHT11 and Blynk Cloud)</td>
   </tr>
+  <tr>
+    <td><b>Activity-19: </b> Control LED from Blynk App<br/> (Use Blynk Cloud)</td>
+  </tr>
 </table>
