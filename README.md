@@ -102,4 +102,7 @@
   <tr>
     <td><b>Activity-21: </b> Collect DHT11 Data <br/> (For ML Modeling)</td>
   </tr>
+  <tr>
+    <td><b>Activity-22: </b> Create Dataset for DHT11 <br/> (Use Pandas)</td>
+  </tr>
 </table>
