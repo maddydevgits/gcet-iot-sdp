@@ -105,4 +105,7 @@
   <tr>
     <td><b>Activity-22: </b> Create Dataset for DHT11 <br/> (Use Pandas)</td>
   </tr>
+  <tr>
+    <td><b>Activity-23: </b> Train Model <br/> (Use K-Nearest Neighbors)</td>
+  </tr>
 </table>
