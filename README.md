@@ -96,4 +96,10 @@
   <tr>
     <td><b>Activity-20: </b> Notify the parent (75% Wet) via Blynk <br/> (Use Moisture Sensor and Blynk Cloud)</td>
   </tr>
+  <tr>
+    <td><h2>Day-5 Activities</h2></td>
+  </tr>
+  <tr>
+    <td><b>Activity-21: </b> Collect DHT11 Data <br/> (For ML Modeling)</td>
+  </tr>
 </table>
