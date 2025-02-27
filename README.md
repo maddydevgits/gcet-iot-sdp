@@ -111,4 +111,7 @@
   <tr>
     <td><b>Activity-24: </b> Deploy Model <br/> (Use Flask)</td>
   </tr>
+  <tr>
+    <td><b>Activity-25: </b> Use AI on ESP32 <br/> (Use deployed AI Models)</td>
+  </tr>
 </table>
