@@ -28,7 +28,7 @@ void loop() {
     return;
   }
 
-  invokeAI();
+  invokeAI(h);
 }
 
 void invokeAI(float h1){
