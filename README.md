@@ -108,4 +108,7 @@
   <tr>
     <td><b>Activity-23: </b> Train Model <br/> (Use K-Nearest Neighbors)</td>
   </tr>
+  <tr>
+    <td><b>Activity-24: </b> Deploy Model <br/> (Use Flask)</td>
+  </tr>
 </table>
