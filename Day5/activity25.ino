@@ -6,7 +6,7 @@ DHT dht(5,DHT11);
 
 const char* ssid="Geethanjali";
 const char* password="campus@123456";
-const char* apiRoute="http://10.1.6.140:2000/predict?h=";
+const char* apiRoute="YOUR_DEPLOYED_URL";
 
 void setup() {
   Serial.begin(9600);
